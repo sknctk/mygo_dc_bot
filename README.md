@@ -28,8 +28,8 @@ This is a customizable Discord bot built with Python. It supports keyword-based 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sknctk/photo_discordbot.git
-   cd your-repo-name
+   git clone https://github.com/sknctk/mygo_dc_bot.git
+   cd mygo_dc_bot
    ```
 
 2. Install the required dependencies:
