@@ -1,0 +1,7 @@
+discord.py
+fuzzywuzzy
+python-Levenshtein
+python-dotenv
+aiohttp
+pymongo
+dnspython
